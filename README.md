@@ -8,7 +8,7 @@ This project uses **Convolutional Neural Networks (CNNs)** to detect and classif
 
 - **Goal:** To classify plant leaves as healthy or diseased using image data.
 - **Method:** Train a CNN on a labeled dataset of plant leaf images.
-- **Frameworks Used:** Python, TensorFlow, Keras, Scikit-learn
+- **Frameworks Used:** Python, Scikit-learn
 - **Outcome:** A trained model capable of detecting diseases across various plant species with high accuracy.
 
 ---
